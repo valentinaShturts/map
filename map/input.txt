@@ -1,0 +1,10 @@
+Topic: STL part 1
+Exercise.
+Write a program for generating a frequency dictionary
+the appearance of individual words in some text. Provide:
+1. Reading source text from a file;
+2. Display information about all words;
+3. Display information about the most frequently occurring
+word;
+4. Write the result to a file.
+When developing a program, use a dictionary like map.

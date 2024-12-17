@@ -1,0 +1,46 @@
+Most common word:
+1: 2
+2: 1
+3: 1
+4: 1
+a: 6
+about: 2
+all: 1
+appearance: 1
+developing: 1
+dictionary: 2
+display: 2
+exercise: 1
+file: 2
+for: 1
+frequency: 1
+frequently: 1
+from: 1
+generating: 1
+in: 1
+individual: 1
+information: 2
+like: 1
+map: 1
+most: 1
+occurring: 1
+of: 1
+part: 1
+program: 2
+provide: 1
+reading: 1
+result: 1
+some: 1
+source: 1
+stl: 1
+text: 2
+the: 3
+to: 1
+topic: 1
+use: 1
+when: 1
+word: 1
+words: 2
+write: 2
+
+Most common word: a (occurs 6 times)
